@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5225a18c-3f53-4d20-9310-60ae3e4ca345" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/ShortcutRelayService/Service1/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="e364cbc7-e933-4c52-806c-3db0032512b7" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ShortcutRelayService/Service1/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="0bd1cae2-6eff-4667-8d66-3128e94e1fb9" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ShortcutRelayService/Service1/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="68563861-bc51-4181-a263-74576885aa38" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ShortcutRelayService/Service1/mex" />
+    <MetadataFile FileName="ShortcutRelayService.xsd" MetadataType="Schema" ID="5179880b-cb37-48ab-8846-d60073da125f" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ShortcutRelayService/Service1/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
